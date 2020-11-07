@@ -10,17 +10,17 @@ Language : C/C++
 
 # index
 
-### [Data Structure]()
+### [Data Structure](https://github.com/MinkiJo/Baekjoon-Online-Judge/tree/main/Data%20Structure)
 
-### [Mathematic]()
+### [Mathematic](https://github.com/MinkiJo/Baekjoon-Online-Judge/tree/main/Mathematic)
 
-### [Dynamic Programming]()
+### [Dynamic Programming](https://github.com/MinkiJo/Baekjoon-Online-Judge/tree/main/DP)
 
-### [Brute Force]()
+### [Brute Force](https://github.com/MinkiJo/Baekjoon-Online-Judge/tree/main/Brute%20force)
 
-### [Graph]()
+### [Graph](https://github.com/MinkiJo/Baekjoon-Online-Judge/tree/main/Graph)
 
-### [Tree]()
+### [Tree](https://github.com/MinkiJo/Baekjoon-Online-Judge/tree/main/Tree)
 
 
 
